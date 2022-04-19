@@ -1,0 +1,7 @@
+.drawer .ant-drawer-content-wrapper .ant-drawer-content .ant-drawer-wrapper-body .ant-drawer-header {
+  display: none !important;
+}
+
+.drawer .ant-drawer-wrapper-body {
+  padding: 0px !important;
+}
